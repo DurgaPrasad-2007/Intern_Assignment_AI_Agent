@@ -1,0 +1,1 @@
+{"version":3,"file":"weather.d.ts","sourceRoot":"","sources":["../../../src/agent/plugins/weather.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,YAAY,EAAE,MAAM,sBAAsB,CAAC;AAGjE,qBAAa,aAAc,YAAW,MAAM;IAC1C,IAAI,SAAa;IACjB,WAAW,SAAgD;IAErD,GAAG,CAAC,KAAK,EAAE,MAAM,GAAG,OAAO,CAAC,YAAY,GAAG,IAAI,CAAC;IAqCtD,OAAO,CAAC,WAAW;YAqBL,UAAU;IAkCxB,OAAO,CAAC,qBAAqB;CAsB9B"}
